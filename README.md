@@ -1,2 +1,7 @@
 # student-management-
-student management  system 
+## student management  system ##
+
+* python main.py *
+* select grade *
+* admin login  *
+* choice option *
