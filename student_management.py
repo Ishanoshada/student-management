@@ -1,4 +1,4 @@
-#### code by ishan oshada ####
+#### coded by ishan oshada ####
 
 ## student manage small project  ##
 
