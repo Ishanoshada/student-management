@@ -49,7 +49,7 @@ Upon running the script, you will be presented with a command-line menu providin
 
 ## JSON Data Storage
 
-The Student Management System uses JSON to store student records locally. The data is saved in a file named `students.json` within the project directory. Each student record consists of a unique ID, name, and age.
+The Student Management System uses JSON to store student records locally. The data is saved in a file named `grade/*.json` within the project directory. Each student record consists of a unique ID, name, and age.
 
 **Note**: This is a basic command-line implementation of a student management system for educational purposes. In a real-world application, you would consider using a database for more robust and scalable data storage.
 
