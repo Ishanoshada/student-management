@@ -1,6 +1,6 @@
 #### coded by ishan oshada ####
 
-## student manage small project  ##
+## student management project  ##
 
 
 import json,os,getpass,random,subprocess,sys,time,datetime
