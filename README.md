@@ -22,13 +22,13 @@ To run the Student Management System, you will need the following:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Ishanoshada/student-management-.git
+git clone https://github.com/Ishanoshada/student-management.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd student-management-
+cd student-management
 ```
 
 3. Run the `student_management.py` script:
